@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+    
+*{
+  margin: 5px;
+  padding: 3px;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Merriweather', serif;
+}
+.promo-title{
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 30px;
+  text-align: center;
+}
+.container{
+  text-align: center;
+  background-color: #B0E0E6;
+}
+#family{
+  padding: 30px 0;
+  text-align: center;
+}
+#scientist{ 
+   padding: 30px 0;
+  text-align: center;
+  color: solid black
+}
+#educational-background{
+  padding: 30px 0;
+  text-align: center;
+}
+#president{
+  padding: 30px 0;
+  text-align: center;
+}
+#writing{
+padding: 30px 0;
+  text-align: center;
+}
+#achievements{
+  padding: 30px 0;
+  text-align: center;
+}
+#demise{
+  padding: 30px 0;
+  text-align: center
+}
